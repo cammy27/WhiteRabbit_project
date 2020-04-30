@@ -4,7 +4,7 @@
     height: 30px;
     cursor: pointer;
     padding: 2px 2px 2px 2px;
-    text-align: center;
+    width: 100%;
 }
 .submit{
     border-radius: 17pt;
@@ -12,7 +12,8 @@
    width: 160pt;
    font-size: large;
    margin-left: 40%;
-    margin-top: 20%;
+    margin-top: 10%;
+    margin-bottom: 20%;
 }
 .subheading{
     padding-left: 30px;
@@ -24,5 +25,5 @@
         padding-top: 18px;
     background: lightblue;
     border-radius: 10pt;
-    height: 100vh;
+    /* height: 100vh; */
 }
