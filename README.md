@@ -1,7 +1,11 @@
  The version used for the application is as the follows:
+ 
    1.Node version:12.12.0
+   
    2.npm version:6.11.3
+   
    3.Angular version:8  
+   
    4.Angular Cli version:8.3.17
 
 Steps to follow to run the application:
